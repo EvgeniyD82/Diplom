@@ -17,7 +17,7 @@ namespace Diplom.Diploma.Test
     {
 
         [Test]
-        public void AddRemoveButton()
+        public void StartButton()
         {
             var expectedUrl = "https://app.qase.io/signup";
             //   var driver = new ChromeDriver(@"D:\CD");
