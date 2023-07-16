@@ -17,7 +17,7 @@ namespace Diplom.Diploma.Test
         public void SetUp()
         {
             driver = new ChromeDriver();
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(60);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(40);
             driver.Navigate().GoToUrl("https://qase.io/");
         }
 
