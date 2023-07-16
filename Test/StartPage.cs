@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Assert = NUnit.Framework.Assert;
 
-namespace TestProject1.Diploma.Test
+namespace Diplom.Diploma.Test
 {
 
     public class StartPage : BaseTest

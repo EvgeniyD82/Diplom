@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestProject1.Diploma.Test
+namespace Diplom.Diploma.Test
 {
     public class BaseTest
     {
